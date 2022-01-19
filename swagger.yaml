@@ -48,6 +48,7 @@ paths:
                 credential_type: AlManhal2020
                 template_ref: al-manhal-2020
                 group_name: Batch2021
+                checksum: ''
                 recipient:
                   name: Mkhululi Ncube
                   email: mkhululi.ncube@smartworld.com
@@ -55,7 +56,6 @@ paths:
                   name_ar: ''
                   emirate_id: 784-1989-0575192-5
                   public_key: ''
-                  checksum: ''
                 credential_info:
                   - id: '12'
                     term: '3'
